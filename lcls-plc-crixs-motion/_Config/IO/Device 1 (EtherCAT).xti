@@ -45,6 +45,7 @@
 			<SyncUnit Name="hot connect" NoDeleteIfUnused="true"/>
 			<SyncUnit Name="VLS" NoDeleteIfUnused="true"/>
 			<SyncUnit Name="Catcher" NoDeleteIfUnused="true"/>
+			<SyncUnit Name="new" NoDeleteIfUnused="true"/>
 		</EtherCAT>
 	</Device>
 </TcSmItem>
