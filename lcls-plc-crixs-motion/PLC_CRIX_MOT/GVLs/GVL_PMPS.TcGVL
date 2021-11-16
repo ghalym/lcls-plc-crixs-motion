@@ -17,7 +17,7 @@ VAR_GLOBAL
     g_FastFaultOutput2  :   FB_HardwareFFOutput :=(i_sNetID:='172.21.42.126.1.1');
 	
 	
-		{attribute 'pytmc' := '
+	{attribute 'pytmc' := '
     pv: PLC:CRIX:MOT:ARB:01
     '}
 	fbArbiter1   :   FB_Arbiter(1);
